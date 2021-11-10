@@ -1,6 +1,7 @@
 - Hello, I’m @ethan-l-chen-24
 - I'm a student at Dartmouth College in the class of 2024
 - I’m studying Computer Science and Engineering
+- I am interested specifically in full-stack development as well as artificial intelligence algorithms!
 - Reach me at my email ethan.l.chen.24@dartmouth.edu 
 
 <!---
