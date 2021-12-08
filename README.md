@@ -5,5 +5,5 @@ I'm Ethan, a Computer Science Modified W/ Engineering Sciences Major at Dartmout
 </p>
 <p align='center'>
   To contact me, reach out at my email `ethan.l.chen.24@dartmouth.edu`. To see more of my work, check out my 
-  <a href="ethanlchen.me">website</a>!
+  <a href="http://ethanlchen.me/">website</a>!
 </p>
