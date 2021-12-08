@@ -1,10 +1,9 @@
-- Hello, I’m @ethan-l-chen-24
-- I'm a student at Dartmouth College in the class of 2024
-- I’m studying Computer Science and Engineering
-- I am interested specifically in full-stack development as well as artificial intelligence algorithms!
-- Reach me at my email ethan.l.chen.24@dartmouth.edu 
-
-<!---
-ethan-l-chen-24/ethan-l-chen-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Social banner for ethan-l-chen-24](https://github.com/ethan-l-chen-24/ethan-l-chen-24/blob/main/images/bannerV1.png)
+<h1 align='center'> Hello! :wave:</h1>
+<p align='center'>
+I'm Ethan, a Computer Science Modified W/ Engineering Sciences Major at Dartmouth College. Thanks for checking out my GitHub!
+</p>
+<p align='center'>
+  To contact me, reach out at my email `ethan.l.chen.24@dartmouth.edu`. To see more of my work, check out my 
+  <a href="ethanlchen.me">website</a>!
+</p>
